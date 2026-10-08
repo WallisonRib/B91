@@ -29,7 +29,7 @@ Node.js Instalado
 4. Rodar docker do PostgreSQL
   Na raiz do projeto, rode o comando:
    ```js
-   docker-compose upd -d;
+   docker-compose up -d;
    ```
 5. Rodar o projeto:
    ```sh
